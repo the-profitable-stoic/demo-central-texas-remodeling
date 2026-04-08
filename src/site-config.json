@@ -1,0 +1,549 @@
+{
+  "business": {
+    "name": "Central Texas Remodeling",
+    "phone": "+15122140560",
+    "category": "remodeling contractor",
+    "city": "Austin",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Austin's Remodeling Experts",
+      "heroSubline": "Transforming homes across Central Texas with quality craftsmanship and unwavering dedication. From historic bungalows to modern builds, we handle it all.",
+      "aboutTitle": "Built on Trust, Crafted with Excellence",
+      "aboutText": [
+        "Central Texas Remodeling started with a simple goal: to provide Austin homeowners with reliable, high-quality remodeling services. We saw a need for contractors who understood the unique challenges of our local housing stock and climate.",
+        "Our approach is simple: clear communication, meticulous planning, and flawless execution. We treat every project as if it were our own home, ensuring every detail is perfect.",
+        "We're proud to be a part of the Austin community. We source materials locally whenever possible and actively support local charities and organizations. Central Texas isn't just where we work, it's where we live."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Austin architecture, permitting, and climate challenges."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Detailed quotes and no hidden fees – know exactly what you're paying for."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled tradespeople delivering exceptional results that stand the test of time."
+        },
+        {
+          "title": "Project Management",
+          "description": "Dedicated project managers keep your remodel on schedule and within budget."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and let's discuss your remodeling vision."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Creating stunning, functional kitchens tailored to your Austin lifestyle.",
+        "description": "The kitchen is the heart of your home, and we understand the importance of creating a space that's both beautiful and functional. Whether you're dreaming of a modern chef's kitchen or a cozy farmhouse-style cooking area, Central Texas Remodeling can bring your vision to life. We handle every aspect of the kitchen remodeling process, from initial design and layout to cabinet installation, countertop fabrication, and appliance integration. \n\nWe work with a wide range of materials to suit any style and budget, from classic granite and marble to contemporary quartz and concrete. Our team of experienced designers will help you choose the perfect finishes and fixtures to create a kitchen that reflects your personality and lifestyle. We also understand the unique challenges of remodeling older Austin homes, including uneven floors, outdated plumbing, and electrical systems. We'll ensure that your new kitchen is not only beautiful but also safe and up to code. \n\nWe obtain all necessary permits and manage every detail of the project, so you can relax and enjoy the process. From demolition to final touches, we're committed to delivering exceptional results that exceed your expectations. A kitchen remodel is a significant investment, and we're here to help you make the most of it.",
+        "process": [
+          "Step 1: Consultation & Design – Discuss your needs, budget, and style preferences.",
+          "Step 2: Material Selection – Choose cabinets, countertops, appliances, and fixtures.",
+          "Step 3: Demolition & Construction – Expert demolition and construction, minimizing disruption.",
+          "Step 4: Finishing Touches – Painting, backsplash installation, and final cleanup."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetics",
+          "Customized to your needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 6-12 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's possible to live in your home during a kitchen remodel, but it can be disruptive. We'll work with you to minimize inconvenience."
+          },
+          {
+            "question": "What permits are required for a kitchen remodel in Austin?",
+            "answer": "Permit requirements vary depending on the extent of the remodel. We'll handle all necessary permit applications and inspections."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a relaxing and functional oasis.",
+        "description": "Is your bathroom outdated, cramped, or simply not meeting your needs? Central Texas Remodeling can help you create the bathroom of your dreams. From small powder room updates to complete master suite transformations, we have the expertise to handle any project. We understand the importance of creating a space that's both beautiful and functional, and we'll work with you to design a bathroom that meets your specific needs and style preferences. \n\nWe handle every aspect of the bathroom remodeling process, from demolition and plumbing to tile installation, vanity installation, and fixture upgrades. We're experienced in working with a wide range of materials, from classic ceramic tile to modern glass and stone. Our team of skilled craftsmen will ensure that every detail is perfect, from the grout lines to the shower door. We also understand the unique challenges of remodeling older Austin homes, including outdated plumbing and electrical systems. \n\nWe'll ensure that your new bathroom is not only beautiful but also safe and up to code. We obtain all necessary permits and manage every detail of the project, so you can relax and enjoy the process. Whether you're looking to create a spa-like retreat or a functional family bathroom, Central Texas Remodeling can help you achieve your goals.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and functional needs.",
+          "Step 2: Material Selection – Choose tiles, fixtures, vanities, and lighting.",
+          "Step 3: Demolition & Plumbing – Careful demolition and updated plumbing as needed.",
+          "Step 4: Installation & Finishing – Expert tile work, fixture installation, and final touches."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced comfort",
+          "Modernized aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel takes 4-8 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "You can typically stay in your home during a bathroom remodel, but you will be without the use of that bathroom. We can help you minimize disruption."
+          },
+          {
+            "question": "What are some popular bathroom remodeling trends in Austin?",
+            "answer": "Popular trends include walk-in showers, freestanding tubs, and natural stone finishes."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Complete home transformations tailored to your lifestyle and needs.",
+        "description": "Ready to completely transform your Austin home? Central Texas Remodeling specializes in whole house remodels, turning outdated or dysfunctional spaces into dream homes. Whether you're looking to update an older home, expand your living space, or simply create a more modern and comfortable environment, we have the expertise to handle every aspect of the project. \n\nWe start with a comprehensive consultation to understand your vision, needs, and budget. Our team of experienced designers will work with you to create a custom plan that maximizes your space and reflects your personal style. We handle everything from structural modifications and electrical upgrades to kitchen and bathroom remodels, flooring installation, and painting. We also understand the unique challenges of remodeling older homes in Austin, including foundation issues, outdated plumbing and electrical systems, and asbestos abatement. \n\nWe'll ensure that your home is not only beautiful but also safe and up to code. We obtain all necessary permits and manage every detail of the project, so you can relax and enjoy the process. A whole house remodel is a significant undertaking, and we're committed to delivering exceptional results that exceed your expectations. We focus on transparency and communication throughout the project.",
+        "process": [
+          "Step 1: Comprehensive Consultation – Discuss your vision, budget, and lifestyle needs.",
+          "Step 2: Design & Planning – Create detailed plans, including floor plans, elevations, and material selections.",
+          "Step 3: Permitting & Preparation – Obtain necessary permits and prepare the site for construction.",
+          "Step 4: Construction & Finishing – Expert construction, plumbing, electrical, and finishing work."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced comfort",
+          "Modernized aesthetics",
+          "Customized to your lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel take?",
+            "answer": "The timeline varies depending on the scope of the project, but most whole house remodels take several months."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "Moving out is highly recommended during a whole house remodel due to the extensive nature of the work."
+          },
+          {
+            "question": "How much does a whole house remodel cost?",
+            "answer": "The cost depends on the size and scope of the project. We provide detailed estimates upfront."
+          }
+        ]
+      },
+      {
+        "slug": "room-additions",
+        "name": "Room Additions",
+        "shortDescription": "Expanding your living space with seamless room additions designed for Austin homes.",
+        "description": "Need more space for your growing family or hobbies? Central Texas Remodeling can help you expand your living area with a seamless room addition. Whether you're looking to add a new bedroom, bathroom, home office, or family room, we have the expertise to design and build an addition that integrates seamlessly with your existing home. We understand the importance of matching the architectural style of your home, and we'll work with you to create an addition that looks like it was always meant to be there. \n\nWe handle every aspect of the room addition process, from initial design and planning to foundation work, framing, roofing, and finishing. We're experienced in working with a wide range of materials, and we'll help you choose the perfect finishes and fixtures to match your existing home. We also understand the unique challenges of building in Austin, including foundation issues, soil conditions, and permitting requirements. \n\nWe'll ensure that your room addition is not only beautiful but also structurally sound and up to code. We obtain all necessary permits and manage every detail of the project, so you can relax and enjoy the process. Adding a room to your home is a significant investment, and we're committed to delivering exceptional results that exceed your expectations.",
+        "process": [
+          "Step 1: Site Evaluation & Design – Assess your property and create a custom design.",
+          "Step 2: Permitting & Foundation – Obtain necessary permits and pour the foundation.",
+          "Step 3: Framing & Roofing – Build the structure with expert framing and roofing.",
+          "Step 4: Interior Finishing – Install electrical, plumbing, insulation, and finishes."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Customized to your needs",
+          "Improved functionality"
+        ],
+        "faq": [
+          {
+            "question": "How long does a room addition take?",
+            "answer": "A room addition typically takes 2-4 months, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What permits are required for a room addition in Austin?",
+            "answer": "Permit requirements vary depending on the size and scope of the addition. We'll handle all necessary permit applications."
+          },
+          {
+            "question": "How much does a room addition cost?",
+            "answer": "The cost depends on the size and complexity of the addition. We provide detailed estimates upfront."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-living-spaces",
+        "name": "Outdoor Living Spaces",
+        "shortDescription": "Creating inviting outdoor spaces perfect for enjoying the Texas weather.",
+        "description": "Make the most of Austin's beautiful weather with a custom-designed outdoor living space from Central Texas Remodeling. Whether you're dreaming of a relaxing patio, a functional outdoor kitchen, or a complete backyard oasis, we can bring your vision to life. We understand the importance of creating a space that's both beautiful and functional, and we'll work with you to design an outdoor living area that meets your specific needs and style preferences. \n\nWe handle every aspect of the outdoor living space process, from initial design and planning to patio construction, decking installation, and outdoor kitchen setup. We're experienced in working with a wide range of materials, from natural stone and wood to composite decking and pavers. Our team of skilled craftsmen will ensure that every detail is perfect, from the patio layout to the outdoor lighting. We also understand the unique challenges of building outdoors in Austin, including weather conditions, drainage issues, and permitting requirements. \n\nWe'll ensure that your outdoor living space is not only beautiful but also durable and functional. We obtain all necessary permits and manage every detail of the project, so you can relax and enjoy the process. From cozy fire pits to full outdoor kitchens, Central Texas Remodeling can help you create the perfect outdoor retreat.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and functional needs.",
+          "Step 2: Material Selection – Choose pavers, decking, outdoor kitchen components, and lighting.",
+          "Step 3: Construction & Installation – Expert patio construction, decking installation, and outdoor kitchen setup.",
+          "Step 4: Finishing Touches – Landscaping, lighting, and furniture placement."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Extended living space",
+          "Enhanced outdoor enjoyment",
+          "Perfect for entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What are some popular outdoor living space features in Austin?",
+            "answer": "Popular features include outdoor kitchens, fire pits, covered patios, and swimming pools."
+          },
+          {
+            "question": "What materials are best for outdoor living spaces in Texas?",
+            "answer": "Durable materials like natural stone, composite decking, and concrete pavers are ideal for Texas' climate."
+          },
+          {
+            "question": "Do I need a permit for an outdoor living space?",
+            "answer": "Permit requirements vary depending on the scope of the project. We'll handle all necessary permit applications."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-repair",
+        "name": "Foundation Repair",
+        "shortDescription": "Protecting your Austin home with expert foundation repair services.",
+        "description": "Austin's notorious clay soil and unpredictable weather can wreak havoc on home foundations. Central Texas Remodeling provides expert foundation repair services to address cracks, settling, and other foundation issues. Ignoring these problems can lead to serious structural damage, so it's crucial to address them promptly. We understand the unique challenges of foundation repair in Austin, and we have the expertise to provide effective and lasting solutions. \n\nWe start with a thorough inspection to assess the extent of the damage and identify the underlying cause. Our team of experienced professionals will then recommend the best course of action, whether it's pier and beam repair, slabjacking, or other foundation stabilization techniques. We use only the highest quality materials and proven methods to ensure that your foundation is strong and stable for years to come. \n\nWe understand that foundation repair can be a stressful experience, and we're committed to providing clear communication and transparent pricing throughout the process. We obtain all necessary permits and manage every detail of the project, so you can rest assured that your home is in good hands. Don't let foundation problems compromise the safety and value of your Austin home. Contact Central Texas Remodeling today for a free inspection.",
+        "process": [
+          "Step 1: Foundation Inspection – Thorough assessment of your foundation's condition.",
+          "Step 2: Solution Recommendation – Customized repair plan based on the inspection findings.",
+          "Step 3: Foundation Repair – Expert pier and beam repair, slabjacking, or other techniques.",
+          "Step 4: Post-Repair Inspection – Verification of the repair and long-term stability."
+        ],
+        "benefits": [
+          "Stabilized foundation",
+          "Prevention of further damage",
+          "Increased home value",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of foundation problems?",
+            "answer": "Signs include cracks in walls or ceilings, uneven floors, sticking doors and windows, and gaps around window and door frames."
+          },
+          {
+            "question": "How much does foundation repair cost?",
+            "answer": "The cost depends on the extent of the damage and the type of repair required. We provide detailed estimates upfront."
+          },
+          {
+            "question": "How long does foundation repair take?",
+            "answer": "The timeline varies depending on the scope of the project, but most foundation repairs take several days to a week."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Round Rock",
+        "slug": "round-rock-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is proud to offer our comprehensive remodeling services to homeowners in Round Rock, Texas. We understand the unique needs of Round Rock residents, especially given the prevalence of homes built in the 1990s and 2000s within family-oriented subdivisions. Our team has extensive experience updating kitchens, bathrooms, and living spaces to reflect modern styles and functionality, while maintaining the existing charm of these homes.\n\nRound Rock's hot Texas summers demand energy-efficient solutions. We specialize in energy-efficient windows, insulation upgrades, and HVAC system improvements to help keep your home cool and comfortable while reducing your energy bills. Whether you're looking for a complete home remodel or a smaller renovation project, Central Texas Remodeling is committed to providing exceptional craftsmanship and customer service in Round Rock.",
+        "localContext": "Round Rock is known for its family-friendly atmosphere and numerous subdivisions built in the late 20th and early 21st centuries. Many homes are ready for updates to improve energy efficiency and modernize the interior.",
+        "nearbyAreas": [
+          "Austin",
+          "Pflugerville",
+          "Georgetown"
+        ]
+      },
+      {
+        "city": "Cedar Park",
+        "slug": "cedar-park-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is delighted to provide top-notch remodeling services to the growing community of Cedar Park, Texas. We recognize that Cedar Park has experienced significant suburban growth since the 2000s, resulting in a diverse range of homes and remodeling needs. Our team is equipped to handle projects of all sizes, from kitchen and bathroom renovations to whole-house remodels, tailored to the specific characteristics of Cedar Park homes.\n\nGiven Cedar Park's location in Central Texas, homeowners often seek ways to improve energy efficiency and combat the intense summer heat. We offer a range of energy-saving solutions, including window replacements, insulation upgrades, and efficient HVAC systems. Central Texas Remodeling is committed to helping Cedar Park residents create beautiful, functional, and energy-efficient homes.",
+        "localContext": "Cedar Park has seen tremendous growth in the 21st century, resulting in many modern suburban homes. Residents often seek renovations to personalize their spaces and improve energy efficiency.",
+        "nearbyAreas": [
+          "Leander",
+          "Austin",
+          "Round Rock"
+        ]
+      },
+      {
+        "city": "Georgetown",
+        "slug": "georgetown-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling proudly serves the historic and charming city of Georgetown, Texas. We appreciate the unique character of Georgetown, particularly its beautiful Victorian downtown homes. Our team has the expertise to handle sensitive renovations and restorations that preserve the historical integrity of these properties while incorporating modern amenities.\n\nGeorgetown's hot Texas climate makes energy efficiency a priority for many homeowners. We offer a variety of energy-saving solutions, including window replacements, insulation upgrades, and efficient HVAC systems, all while respecting the architectural style of your home. Central Texas Remodeling is dedicated to providing exceptional remodeling services that enhance the beauty and functionality of Georgetown homes.",
+        "localContext": "Georgetown boasts a charming downtown area with many historic Victorian homes. Renovations in this area often focus on preserving the homes' original character while adding modern conveniences.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Liberty Hill",
+          "Florence"
+        ]
+      },
+      {
+        "city": "Pflugerville",
+        "slug": "pflugerville-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is pleased to offer our remodeling services to the rapidly growing community of Pflugerville, Texas. We understand that Pflugerville is known for its affordable and newer construction homes, and we specialize in helping homeowners personalize and upgrade these spaces. Our team is experienced in a wide range of remodeling projects, from kitchen and bathroom updates to whole-house renovations, designed to meet the specific needs of Pflugerville residents.\n\nGiven Pflugerville's location in Central Texas, energy efficiency is a key concern for many homeowners. We offer a variety of energy-saving solutions, including window replacements, insulation upgrades, and efficient HVAC systems. Central Texas Remodeling is committed to helping Pflugerville residents create beautiful, functional, and energy-efficient homes that reflect their personal style.",
+        "localContext": "Pflugerville is characterized by its newer, more affordable housing options. Residents often seek remodeling services to personalize their homes and increase their value.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Austin",
+          "Hutto"
+        ]
+      },
+      {
+        "city": "Austin",
+        "slug": "austin-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is your trusted partner for home renovations in Austin, TX. From downtown condos to sprawling suburban homes, we cater to the diverse architectural landscape of this vibrant city. Our team of experienced designers and craftsmen are ready to bring your vision to life, whether it's a modern kitchen remodel, a luxurious bathroom upgrade, or a complete home transformation.\n\nWe understand the unique challenges and opportunities of remodeling in Austin. We're committed to sustainable practices, energy-efficient solutions, and preserving the character of Austin's unique neighborhoods. Let Central Texas Remodeling help you create a home that reflects your style and enhances your Austin lifestyle.",
+        "localContext": "Austin is a diverse city with a wide range of architectural styles. Homeowners are focused on updating their properties to reflect modern styles and energy efficiency.",
+        "nearbyAreas": [
+          "West Lake Hills",
+          "Rollingwood",
+          "Pflugerville"
+        ]
+      },
+      {
+        "city": "West Lake Hills",
+        "slug": "west-lake-hills-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling provides premium remodeling services to homeowners in West Lake Hills, Texas. We understand the desire for luxury and quality in this exclusive community. We offer bespoke design and construction services to elevate your home to its full potential. From gourmet kitchen renovations to spa-like bathroom retreats and stunning outdoor living spaces, we deliver exceptional results.\n\nWe are committed to using high-end materials and employing skilled craftsmen to ensure that your West Lake Hills home reflects your discerning taste. Central Texas Remodeling works closely with you throughout the entire process, from initial design to final installation, to ensure your complete satisfaction.",
+        "localContext": "West Lake Hills is an affluent community known for its luxurious homes and stunning views. Residents often seek high-end renovations to enhance their property values.",
+        "nearbyAreas": [
+          "Rollingwood",
+          "Austin",
+          "Bee Cave"
+        ]
+      },
+      {
+        "city": "Rollingwood",
+        "slug": "rollingwood-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is dedicated to serving the residents of Rollingwood, Texas, with exceptional remodeling services. We understand that Rollingwood is a close-knit community with a focus on quality living. We offer personalized design and construction solutions to enhance the beauty and functionality of your home.\n\nWhether you're looking to update your kitchen, remodel your bathroom, or create an inviting outdoor living space, Central Texas Remodeling is committed to providing superior craftsmanship and outstanding customer service. We work closely with you to understand your unique needs and preferences, ensuring that your remodeling project exceeds your expectations.",
+        "localContext": "Rollingwood is a small, upscale community near Austin. Homeowners value quality craftsmanship and personalized service.",
+        "nearbyAreas": [
+          "West Lake Hills",
+          "Austin",
+          "Sunset Valley"
+        ]
+      },
+      {
+        "city": "Hutto",
+        "slug": "hutto-tx",
+        "state": "TX",
+        "content": "Central Texas Remodeling is proud to offer our remodeling expertise to the growing community of Hutto, Texas. We understand the unique needs of Hutto homeowners, many of whom are looking to personalize and upgrade their relatively new homes. Our team has extensive experience in creating modern kitchens, luxurious bathrooms, and functional living spaces that cater to the lifestyle of Hutto families.\n\nAs Hutto experiences rapid growth, Central Texas Remodeling is committed to providing reliable and affordable remodeling solutions. We offer a wide range of services, from minor updates to complete home renovations, ensuring that your Hutto home reflects your personal style and meets the needs of your growing family.",
+        "localContext": "Hutto is a rapidly growing community with many newer homes. Families are focused on personalizing their spaces and creating functional living areas.",
+        "nearbyAreas": [
+          "Pflugerville",
+          "Taylor",
+          "Round Rock"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Central Texas Remodeling did an amazing job on our kitchen remodel! They completely transformed our outdated kitchen into a modern and functional space. The team was professional, communicative, and always on time. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Central Texas Remodeling to remodel our master bathroom, and we're very happy with the results. The quality of the work is excellent, and the project was completed on time and within budget. There were a couple of minor hiccups along the way, but they were quickly resolved.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Room Addition",
+        "text": "Central Texas Remodeling added a new bedroom and bathroom to our home, and it turned out perfectly. The addition blends seamlessly with the existing structure, and it feels like it was always meant to be there. The team was professional, courteous, and always responsive to our questions.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Outdoor Living Space",
+        "text": "We absolutely love our new outdoor living space! Central Texas Remodeling created a beautiful patio with an outdoor kitchen, perfect for entertaining. The team was creative, efficient, and always willing to go the extra mile to ensure we were happy with the results.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Foundation Repair",
+        "text": "We had some foundation issues with our home, and Central Texas Remodeling did a great job repairing them. The team was knowledgeable, professional, and explained the repair process clearly. We appreciate their honesty and integrity.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Whole House Remodel",
+        "text": "Central Texas Remodeling completely transformed our outdated home into a modern and stylish space. The team was professional, detail-oriented, and always willing to listen to our ideas. The project was completed on time and within budget, and we couldn't be happier with the results.",
+        "date": "2024-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Austin Remodeling Contractor | CTR",
+        "description": "Central Texas Remodeling: Expert remodeling services in Austin. Kitchens, baths, additions, foundation repair. Free consultations!"
+      },
+      "about": {
+        "title": "About Central Texas Remodeling | Austin, TX",
+        "description": "Learn about Central Texas Remodeling. Local Austin contractor with years of experience. Quality remodeling and customer satisfaction."
+      },
+      "services": {
+        "title": "Austin Remodeling Services | CTR",
+        "description": "Central Texas Remodeling offers complete remodeling services in Austin. Kitchen remodeling, bathroom remodeling, additions, and more!"
+      },
+      "contact": {
+        "title": "Contact Central Texas Remodeling | Get a Quote",
+        "description": "Contact Central Texas Remodeling for a free consultation. Serving Austin, Round Rock, Cedar Park, Georgetown, and Pflugerville."
+      },
+      "reviews": {
+        "title": "Central Texas Remodeling Reviews | Austin, TX",
+        "description": "Read reviews for Central Texas Remodeling. See what our Austin customers say about our kitchen, bath, and whole house remodeling services."
+      },
+      "service-areas": {
+        "title": "Central Texas Remodeling Service Areas",
+        "description": "Central Texas Remodeling serves Austin, Round Rock, Cedar Park, Georgetown, and Pflugerville. Expert remodeling services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "room-additions": "/images/service-room-additions.webp",
+      "outdoor-living-spaces": "/images/service-outdoor-living-spaces.webp",
+      "foundation-repair": "/images/service-foundation-repair.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "room-additions": {
+        "src": "/images/service-room-additions.webp",
+        "srcset": "/images/service-room-additions-400w.webp 400w, /images/service-room-additions-800w.webp 800w, /images/service-room-additions-1200w.webp 1200w, /images/service-room-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-living-spaces": {
+        "src": "/images/service-outdoor-living-spaces.webp",
+        "srcset": "/images/service-outdoor-living-spaces-400w.webp 400w, /images/service-outdoor-living-spaces-800w.webp 800w, /images/service-outdoor-living-spaces-1200w.webp 1200w, /images/service-outdoor-living-spaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-repair": {
+        "src": "/images/service-foundation-repair.webp",
+        "srcset": "/images/service-foundation-repair-400w.webp 400w, /images/service-foundation-repair-800w.webp 800w, /images/service-foundation-repair-1200w.webp 1200w, /images/service-foundation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

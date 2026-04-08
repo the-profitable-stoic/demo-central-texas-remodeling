@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-central-texas-remodeling.dream-surge.com/sitemap-index.xml
